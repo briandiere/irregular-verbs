@@ -1,0 +1,1227 @@
+[
+	{
+		"base_verbale": "aligth",
+		"preterit": "alit",
+		"participe_passe": "alit",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "arise",
+		"preterit": "arose",
+		"participe_passe": "arisen",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "awake",
+		"preterit": "awoke",
+		"participe_passe": "awaken",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "be",
+		"preterit": "was",
+		"participe_passe": "been",
+		"traduction_fr": "être",
+		"actif": true
+	},
+	{
+		"base_verbale": "bear",
+		"preterit": "bore",
+		"participe_passe": "born",
+		"traduction_fr": "supporter",
+		"actif": false
+	},
+	{
+		"base_verbale": "beat",
+		"preterit": "beat",
+		"participe_passe": "beaten",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "become",
+		"preterit": "became",
+		"participe_passe": "become",
+		"traduction_fr": "devenir",
+		"actif": true
+	},
+	{
+		"base_verbale": "beget",
+		"preterit": "begot",
+		"participe_passe": "begotten",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "begin",
+		"preterit": "began",
+		"participe_passe": "begun",
+		"traduction_fr": "commencer",
+		"actif": true
+	},
+	{
+		"base_verbale": "bend",
+		"preterit": "bent",
+		"participe_passe": "bent",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bereaved",
+		"preterit": "bereft",
+		"participe_passe": "bereft",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "beseech",
+		"preterit": "besought",
+		"participe_passe": "besought",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bet",
+		"preterit": "bet",
+		"participe_passe": "bet",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bid",
+		"preterit": "bid",
+		"participe_passe": "bid",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bide",
+		"preterit": "bade",
+		"participe_passe": "biden",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bind",
+		"preterit": "bound",
+		"participe_passe": "bound",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bite",
+		"preterit": "bit",
+		"participe_passe": "bitten",
+		"traduction_fr": "mordre",
+		"actif": true
+	},
+	{
+		"base_verbale": "bleed",
+		"preterit": "bled",
+		"participe_passe": "bled",
+		"traduction_fr": "saigner",
+		"actif": true
+	},
+	{
+		"base_verbale": "bless",
+		"preterit": "blest",
+		"participe_passe": "blest",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "blow",
+		"preterit": "blew",
+		"participe_passe": "blown",
+		"traduction_fr": "souffler",
+		"actif": true
+	},
+	{
+		"base_verbale": "break",
+		"preterit": "broke",
+		"participe_passe": "broken",
+		"traduction_fr": "casser",
+		"actif": true
+	},
+	{
+		"base_verbale": "breed",
+		"preterit": "bred",
+		"participe_passe": "bred",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bring",
+		"preterit": "brought",
+		"participe_passe": "brought",
+		"traduction_fr": "apporter",
+		"actif": true
+	},
+	{
+		"base_verbale": "broadcast",
+		"preterit": "broadcast",
+		"participe_passe": "broadcast",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "build",
+		"preterit": "built",
+		"participe_passe": "built",
+		"traduction_fr": "construire",
+		"actif": true
+	},
+	{
+		"base_verbale": "burn",
+		"preterit": "burnt",
+		"participe_passe": "burnt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "burst",
+		"preterit": "burst",
+		"participe_passe": "burst",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "bust",
+		"preterit": "bust",
+		"participe_passe": "bust",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "buy",
+		"preterit": "bought",
+		"participe_passe": "bought",
+		"traduction_fr": "acheter",
+		"actif": true
+	},
+	{
+		"base_verbale": "cast",
+		"preterit": "cast",
+		"participe_passe": "cast",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "catch",
+		"preterit": "caught",
+		"participe_passe": "caught",
+		"traduction_fr": "attraper",
+		"actif": true
+	},
+	{
+		"base_verbale": "choose",
+		"preterit": "chose",
+		"participe_passe": "chosen",
+		"traduction_fr": "choisire",
+		"actif": true
+	},
+	{
+		"base_verbale": "cling",
+		"preterit": "clung",
+		"participe_passe": "clung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "clothed",
+		"preterit": "clothed",
+		"participe_passe": "clothed",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "come",
+		"preterit": "came",
+		"participe_passe": "come",
+		"traduction_fr": "venir",
+		"actif": true
+	},
+	{
+		"base_verbale": "cost",
+		"preterit": "cost",
+		"participe_passe": "cost",
+		"traduction_fr": "coûter",
+		"actif": true
+	},
+	{
+		"base_verbale": "crept",
+		"preterit": "crept",
+		"participe_passe": "crept",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "crow",
+		"preterit": "crowde",
+		"participe_passe": "crowed",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "crossbreed",
+		"preterit": "crosbred",
+		"participe_passe": "crosbred",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "cut",
+		"preterit": "cut",
+		"participe_passe": "cut",
+		"traduction_fr": "couper",
+		"actif": true
+	},
+	{
+		"base_verbale": "deal",
+		"preterit": "dealt",
+		"participe_passe": "dealt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "dig",
+		"preterit": "dug",
+		"participe_passe": "dug",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "do",
+		"preterit": "did",
+		"participe_passe": "done",
+		"traduction_fr": "faire",
+		"actif": true
+	},
+	{
+		"base_verbale": "draw",
+		"preterit": "drew",
+		"participe_passe": "drawn",
+		"traduction_fr": "dessiner",
+		"actif": true
+	},
+	{
+		"base_verbale": "dream",
+		"preterit": "dreamt",
+		"participe_passe": "dreamt",
+		"traduction_fr": "rêver",
+		"actif": true
+	},
+	{
+		"base_verbale": "drink",
+		"preterit": "drank",
+		"participe_passe": "drunk",
+		"traduction_fr": "boire",
+		"actif": true
+	},
+	{
+		"base_verbale": "drive",
+		"preterit": "drove",
+		"participe_passe": "driven",
+		"traduction_fr": "conduire",
+		"actif": true
+	},
+	{
+		"base_verbale": "dwelt",
+		"preterit": "dwelt",
+		"participe_passe": "dwelt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "eat",
+		"preterit": "ate",
+		"participe_passe": "eaten",
+		"traduction_fr": "manger",
+		"actif": true
+	},
+	{
+		"base_verbale": "fall",
+		"preterit": "fell",
+		"participe_passe": "fallen",
+		"traduction_fr": "tomber",
+		"actif": true
+	},
+	{
+		"base_verbale": "feed",
+		"preterit": "fed",
+		"participe_passe": "fed",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "feel",
+		"preterit": "felt",
+		"participe_passe": "felt",
+		"traduction_fr": "sentir",
+		"actif": true
+	},
+	{
+		"base_verbale": "fight",
+		"preterit": "fought",
+		"participe_passe": "fought",
+		"traduction_fr": "combattre",
+		"actif": true
+	},
+	{
+		"base_verbale": "find",
+		"preterit": "found",
+		"participe_passe": "found",
+		"traduction_fr": "trouver",
+		"actif": true
+	},
+	{
+		"base_verbale": "flee",
+		"preterit": "fled",
+		"participe_passe": "fled",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "flung",
+		"preterit": "flung",
+		"participe_passe": "flung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "fly",
+		"preterit": "flew",
+		"participe_passe": "flown",
+		"traduction_fr": "voler",
+		"actif": true
+	},
+	{
+		"base_verbale": "forbid",
+		"preterit": "forbad",
+		"participe_passe": "forbidden",
+		"traduction_fr": "interdire",
+		"actif": true
+	},
+	{
+		"base_verbale": "forcast",
+		"preterit": "forecast",
+		"participe_passe": "forecast",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "forget",
+		"preterit": "forgot",
+		"participe_passe": "forgotten",
+		"traduction_fr": "oublier",
+		"actif": true
+	},
+	{
+		"base_verbale": "forsake",
+		"preterit": "forsook",
+		"participe_passe": "forsaken",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "freeze",
+		"preterit": "froze",
+		"participe_passe": "frozen",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "get",
+		"preterit": "got",
+		"participe_passe": "got",
+		"traduction_fr": "obtenir",
+		"actif": true
+	},
+	{
+		"base_verbale": "giled",
+		"preterit": "gilded",
+		"participe_passe": "gilded",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "give",
+		"preterit": "gave",
+		"participe_passe": "given",
+		"traduction_fr": "donner",
+		"actif": true
+	},
+	{
+		"base_verbale": "gnaw",
+		"preterit": "gnawed",
+		"participe_passe": "gnawed",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "go",
+		"preterit": "went",
+		"participe_passe": "gone",
+		"traduction_fr": "aller",
+		"actif": true
+	},
+	{
+		"base_verbale": "grind",
+		"preterit": "ground",
+		"participe_passe": "ground",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "grip",
+		"preterit": "gript",
+		"participe_passe": "gript",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "grow",
+		"preterit": "grewn",
+		"participe_passe": "grown",
+		"traduction_fr": "grandir",
+		"actif": true
+	},
+	{
+		"base_verbale": "have",
+		"preterit": "had",
+		"participe_passe": "had",
+		"traduction_fr": "avoir",
+		"actif": true
+	},
+	{
+		"base_verbale": "hang",
+		"preterit": "hung",
+		"participe_passe": "hung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "hear",
+		"preterit": "heard",
+		"participe_passe": "heard",
+		"traduction_fr": "entendre",
+		"actif": true
+	},
+	{
+		"base_verbale": "hide",
+		"preterit": "hid",
+		"participe_passe": "hidden",
+		"traduction_fr": "cacher",
+		"actif": true
+	},
+	{
+		"base_verbale": "hit",
+		"preterit": "hit",
+		"participe_passe": "hit",
+		"traduction_fr": "frapper",
+		"actif": true
+	},
+	{
+		"base_verbale": "hold",
+		"preterit": "held",
+		"participe_passe": "held",
+		"traduction_fr": "tenir",
+		"actif": true
+	},
+	{
+		"base_verbale": "keep",
+		"preterit": "kept",
+		"participe_passe": "kept",
+		"traduction_fr": "garder",
+		"actif": true
+	},
+	{
+		"base_verbale": "kneel",
+		"preterit": "knelt",
+		"participe_passe": "knelt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "knit",
+		"preterit": "knit",
+		"participe_passe": "knit",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "know",
+		"preterit": "knew",
+		"participe_passe": "known",
+		"traduction_fr": "savoir",
+		"actif": true
+	},
+	{
+		"base_verbale": "lay",
+		"preterit": "laid",
+		"participe_passe": "laid",
+		"traduction_fr": "dresser",
+		"actif": true
+	},
+	{
+		"base_verbale": "lead",
+		"preterit": "led",
+		"participe_passe": "led",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "lean",
+		"preterit": "leant",
+		"participe_passe": "leant",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "leap",
+		"preterit": "leapt",
+		"participe_passe": "leapt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "learn",
+		"preterit": "learnt",
+		"participe_passe": "learnt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "leave",
+		"preterit": "left",
+		"participe_passe": "left",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "lend",
+		"preterit": "lent",
+		"participe_passe": "lent",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "let",
+		"preterit": "let",
+		"participe_passe": "let",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "lie",
+		"preterit": "lay",
+		"participe_passe": "lain",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "light",
+		"preterit": "lit",
+		"participe_passe": "lit",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "lose",
+		"preterit": "lost",
+		"participe_passe": "lost",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "lose",
+		"preterit": "lost",
+		"participe_passe": "lost",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "may",
+		"preterit": "maight",
+		"participe_passe": "might",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "mean",
+		"preterit": "meant",
+		"participe_passe": "meant",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "meet",
+		"preterit": "met",
+		"participe_passe": "met",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "melt",
+		"preterit": "melted",
+		"participe_passe": "melted",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "mow",
+		"preterit": "mowed",
+		"participe_passe": "mown",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "pay",
+		"preterit": "paid",
+		"participe_passe": "paid",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "pen",
+		"preterit": "pent",
+		"participe_passe": "pent",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "plead",
+		"preterit": "pled",
+		"participe_passe": "pled",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "prove",
+		"preterit": "proved",
+		"participe_passe": "proven",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "put",
+		"preterit": "put",
+		"participe_passe": "put",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "quit",
+		"preterit": "quit",
+		"participe_passe": "quit",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "read",
+		"preterit": "read",
+		"participe_passe": "read",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "rid",
+		"preterit": "rid",
+		"participe_passe": "rid",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "ride",
+		"preterit": "rode",
+		"participe_passe": "riden",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "ring",
+		"preterit": "rang",
+		"participe_passe": "rung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "rise",
+		"preterit": "rose",
+		"participe_passe": "risen",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "run",
+		"preterit": "ran",
+		"participe_passe": "run",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "saw",
+		"preterit": "sawed",
+		"participe_passe": "sawn",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "say",
+		"preterit": "said",
+		"participe_passe": "said",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "see",
+		"preterit": "saw",
+		"participe_passe": "seen",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "seek",
+		"preterit": "sought",
+		"participe_passe": "sought",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sell",
+		"preterit": "sold",
+		"participe_passe": "sold",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "send",
+		"preterit": "sent",
+		"participe_passe": "sent",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "set",
+		"preterit": "set",
+		"participe_passe": "set",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sew",
+		"preterit": "sewed",
+		"participe_passe": "sewn",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shake",
+		"preterit": "shook",
+		"participe_passe": "shaken",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shall",
+		"preterit": "should",
+		"participe_passe": "should",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shear",
+		"preterit": "sheared",
+		"participe_passe": "shorn",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shed",
+		"preterit": "shed",
+		"participe_passe": "shed",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shine",
+		"preterit": "shone",
+		"participe_passe": "shone",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shit",
+		"preterit": "shat",
+		"participe_passe": "shat",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shoe",
+		"preterit": "shoed",
+		"participe_passe": "shoed",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shoot",
+		"preterit": "shot",
+		"participe_passe": "shot",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "show",
+		"preterit": "showed",
+		"participe_passe": "shown",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shred",
+		"preterit": "shred",
+		"participe_passe": "shred",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shrink",
+		"preterit": "shrank",
+		"participe_passe": "shrunk",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "shut",
+		"preterit": "shut",
+		"participe_passe": "shut",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sing",
+		"preterit": "sang",
+		"participe_passe": "sung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sink",
+		"preterit": "sank",
+		"participe_passe": "sunk",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sit",
+		"preterit": "sat",
+		"participe_passe": "sat",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "slay",
+		"preterit": "slew",
+		"participe_passe": "slain",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sleep",
+		"preterit": "slept",
+		"participe_passe": "slept",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "slid",
+		"preterit": "slid",
+		"participe_passe": "slid",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sling",
+		"preterit": "slung",
+		"participe_passe": "slung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "slink",
+		"preterit": "slunk",
+		"participe_passe": "slunk",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "slit",
+		"preterit": "slit",
+		"participe_passe": "slit",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "smell",
+		"preterit": "smelt",
+		"participe_passe": "smelt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "smite",
+		"preterit": "smote",
+		"participe_passe": "smitten",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sow",
+		"preterit": "sowed",
+		"participe_passe": "sown",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "speak",
+		"preterit": "spoke",
+		"participe_passe": "spoken",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "speed",
+		"preterit": "sped",
+		"participe_passe": "sped",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "spell",
+		"preterit": "spelt",
+		"participe_passe": "splet",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "spend",
+		"preterit": "spent",
+		"participe_passe": "spent",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "spill",
+		"preterit": "spilt",
+		"participe_passe": "spilt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "spin",
+		"preterit": "spun",
+		"participe_passe": "spun",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "spit",
+		"preterit": "spat",
+		"participe_passe": "spat",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "split",
+		"preterit": "split",
+		"participe_passe": "split",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "spoil",
+		"preterit": "spoilt",
+		"participe_passe": "spoilt",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "string",
+		"preterit": "strung",
+		"participe_passe": "strung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "swear",
+		"preterit": "swore",
+		"participe_passe": "sworn",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sweat",
+		"preterit": "sweat",
+		"participe_passe": "sweat",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "sweep",
+		"preterit": "sweept",
+		"participe_passe": "sweept",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "swell",
+		"preterit": "swelled",
+		"participe_passe": "swollen",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "swim",
+		"preterit": "swam",
+		"participe_passe": "swum",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "swing",
+		"preterit": "swung",
+		"participe_passe": "swung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "take",
+		"preterit": "took",
+		"participe_passe": "taken",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "teach",
+		"preterit": "taught",
+		"participe_passe": "taught",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "tear",
+		"preterit": "tore",
+		"participe_passe": "torn",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "telecast",
+		"preterit": "telecast",
+		"participe_passe": "telecast",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "tell",
+		"preterit": "told",
+		"participe_passe": "told",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "thrust",
+		"preterit": "thrust",
+		"participe_passe": "thrust",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "tread",
+		"preterit": "trod",
+		"participe_passe": "trodden",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "understand",
+		"preterit": "understood",
+		"participe_passe": "understood",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "wake",
+		"preterit": "woke",
+		"participe_passe": "woken",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "wear",
+		"preterit": "wore",
+		"participe_passe": "worn",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "weave",
+		"preterit": "wove",
+		"participe_passe": "woven",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "wed",
+		"preterit": "wed",
+		"participe_passe": "wed",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "weep",
+		"preterit": "wept",
+		"participe_passe": "wept",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "wet",
+		"preterit": "wet",
+		"participe_passe": "wet",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "win",
+		"preterit": "won",
+		"participe_passe": "won",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "wind",
+		"preterit": "wound",
+		"participe_passe": "wound",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "wring",
+		"preterit": "wrung",
+		"participe_passe": "wrung",
+		"traduction_fr": "",
+		"actif": false
+	},
+	{
+		"base_verbale": "write",
+		"preterit": "wrote",
+		"participe_passe": "written",
+		"traduction_fr": "",
+		"actif": false
+	}
+]
